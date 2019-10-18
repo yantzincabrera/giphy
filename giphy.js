@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var movies = [
-        "The Matrix", "The Brave Little Toaster", "Cinderella", "Snow White", "Seinfeld", "Rick n morty", "Princess Diaries", "Die Hard", "Meet Joe Black", "Hannibal", "Jason", "Halloween"
+        "The Matrix", "The Brave Little Toaster", "Cinderella", "Snow White", "Seinfeld", "Rick n morty", "Home Alone", "Die Hard", "Meet Joe Black", "Hannibal", "Jason", "Halloween"
     ];
 
     function populateButtons(arrayToUse, classToAdd,areaToAddTo) {
